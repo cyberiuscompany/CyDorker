@@ -6,6 +6,12 @@ CyDorker es una herramienta de reconocimiento pasivo que automatiza y simplifica
 
 ---
 
+<p align="center">
+  <img src="icono.png" alt="Banner" width="500"/>
+</p
+
+---
+
 ## 🔍 Dorkers disponibles en CyDorker (27)
 
 1. 🌐 **Open Redirect** – Detecta redirecciones abiertas
