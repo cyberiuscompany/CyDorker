@@ -49,10 +49,10 @@ CyDorker es una herramienta de reconocimiento pasivo que automatiza y simplifica
 ### Interfaz principal
 ![index](./index.png)
 
-### Iniciando una búsqueda
+### Iniciando una búsqueda de ejemplo de (PDF Sensibles)
 ![Iniciando Búsqueda](./Iniciando%20Busqueda.png)
 
-### Resultados de la búsqueda
+### Resultados de la búsqueda de (PDF Sensibles)
 ![Resultado de la Búsqueda](./Resultado%20Busqueda.png)
 
 ---
