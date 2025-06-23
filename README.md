@@ -2,7 +2,7 @@
 
 CyDorker es una herramienta de reconocimiento pasivo que automatiza y simplifica la fase de recolección de información en auditorías de ciberseguridad. Está orientada a OSINT (Open Source Intelligence) sobre nombres de dominio, facilitando el acceso a datos públicos útiles para análisis iniciales.
 
-- Github Pages : https://prueba
+- Github Pages : https://cyberiuscompany.github.io/CyDorker/
 
 ---
 
@@ -72,5 +72,5 @@ CYDORKER/
    git clone https://github.com/cyberiuscompany/CyDorker.git
    cd CyDoker
    index.html # Puedes añadir ese fichero a un navegador
-   [Alternativa] Github Pages : https://prueba
+   [Alternativa] Github Pages : https://cyberiuscompany.github.io/CyDorker/
     ```
