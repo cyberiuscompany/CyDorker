@@ -123,5 +123,15 @@
         "img":"images/23.png",
         "name":"Check Security Headers",
         "link":"https://securityheaders.com/?q=domainname&followRedirects=on"
+    },
+    "25":{
+    "img":"images/24.png",
+    "name":"APIs",
+    "link": "https://google.com/search?q=site:domainname inurl:swagger.json | inurl:/swagger/ | inurl:/swagger-ui/ | inurl:/swagger/index.html | inurl:/swagger-ui.html | inurl:/v1/swagger.json | inurl:/v2/swagger.json | inurl:/v3/swagger.json | inurl:/v1/api-docs | inurl:/v2/api-docs | inurl:/v3/api-docs | inurl:/api-docs | inurl:/api/docs | inurl:/openapi.json | inurl:/openapi.yaml | inurl:/doc.json | inurl:/documentation.json | inurl:/docs | inurl:/docs/index.html | inurl:/redoc | inurl:/redoc/index.html | inurl:/api-explorer | inurl:/api-explorer/index.html | inurl:/developer/swagger | inurl:/developer/api-docs | inurl:/reference/api | inurl:/reference/swagger | inurl:/postman/collections | inurl:/postman.json | inurl:/collection.json | inurl:/insomnia.json | inurl:/public-api | inurl:/graphql | inurl:/graphiql | inurl:/playground | inurl:/explorer | inurl=/rest-api | inurl:/rest/docs | inurl=/restapi | inurl=/restapi.json | inurl=/restapi.yaml | inurl=/help/api | inurl=/apidoc | inurl=/apidocs | inurl=/apidocs/index.html | inurl=/api/reference | inurl=/api/help | inurl=/api/swagger | inurl=/swagger-resources"
+    },
+    "26":{
+    "img":"images/25.png",
+    "name":"Github Leaks",
+    "link": "https://google.com/search?q=site:github.com inurl:.env | inurl:.git-credentials | inurl:id_rsa | inurl:id_dsa | inurl:.pem | inurl:.ppk | inurl:secring.gpg | inurl:config/database.yml | inurl:secrets.yml | inurl:secret_token.rb | inurl:secret_key_base | inurl:settings.py | inurl:config.py | inurl:local_settings.py | inurl:config.js | inurl:firebase.js | inurl:firebase.json | inurl:.npmrc | inurl:.dockercfg | inurl:docker-compose.yml | inurl:docker-compose.override.yml | inurl:credentials.json | inurl:client_secret.json | inurl:oauth.json | inurl:ftp.json | inurl:wp-config.php | inurl:sql_dump | inurl:db.sql | inurl:backup.sql | inurl:dump.sql | inurl:access.log | inurl:error.log | inurl:.bash_history | inurl:.bashrc | inurl:.zshrc | inurl:.netrc | inurl:composer.json | inurl:composer.lock | inurl:package.json | inurl:package-lock.json | inurl:Gemfile | inurl:Gemfile.lock | inurl:Pipfile | inurl:Pipfile.lock | inurl:gradle.properties | inurl:build.gradle | inurl:build.gradle.kts | inurl:credentials.properties | inurl:local.properties | inurl:application.properties | inurl:application.yml | inurl:application.yaml | inurl:mail_password | inurl:smtp_password | inurl:ftp_password | inurl:db_password | inurl:DB_PASSWORD | inurl:DB_USER | inurl:MYSQL_USER | inurl:MYSQL_PASSWORD | inurl:POSTGRES_PASSWORD | inurl:root_password | inurl:admin_password | inurl:access_token | inurl:auth_token | inurl:authorization: | inurl:bearer | inurl:JWT_SECRET | inurl:API_KEY | inurl:api_key | inurl:aws_access_key_id | inurl:aws_secret_access_key | inurl:AZURE_STORAGE_KEY | inurl:firebase_secret | inurl:sendgrid_key | inurl:slack_token | inurl:discord_token | inurl:TWILIO_AUTH_TOKEN"
     }
 }
